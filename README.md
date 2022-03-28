@@ -45,4 +45,4 @@
 
 ## 📊 GitHub Stats
 
-[![Sam Kuria's GitHub stats](https://github-readme-stats.vercel.app/api?username=qurriahSam)](https://github.com/anuraghazra/github-readme-stats)
+[![Sam Kuria's GitHub stats](https://github-readme-stats.vercel.app/api?username=qurriahSam&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
