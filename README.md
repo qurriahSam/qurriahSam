@@ -55,3 +55,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=qurriahSam&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
+
+<p align="center">
+  <img width="700em" src="https://activity-graph.herokuapp.com/graph?username=qurriahSam&theme=gruvbox" />
+</p>
+<hr/>
