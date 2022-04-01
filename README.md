@@ -2,7 +2,8 @@
 
 # Hi there, I am Sam Kuria <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
 
-<img align="right" alt="GIF" src="./assets/eCoder.gif" />
+<img align="right" alt="GIF" src="./assets/eCoder.gif" width="360px"/>
+
 
 [![Twitter](https://img.shields.io/badge/Twitter-1e2122?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/kuriah_sam)
 [![GitHub](https://img.shields.io/badge/GitHub-1e2122?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qurriahSam)
@@ -10,6 +11,8 @@
 [![Gmail](https://img.shields.io/badge/Email-1e2122?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:sammugire@gmail.com)
 
 &nbsp;
+
+
 
 - 👩‍💻 Studying Software Engineering at: [Moringa School](https://moringaschool.com/)
 - 🌱 Currently learning: [Angular](https://angular.io/)
