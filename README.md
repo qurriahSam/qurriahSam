@@ -2,6 +2,8 @@
 
 # Hi there, I am Sam Kuria <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
 
+<img align="right" alt="GIF" src="./assets/eCoder.gif" />
+
 [![Twitter](https://img.shields.io/badge/Twitter-1e2122?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/kuriah_sam)
 [![GitHub](https://img.shields.io/badge/GitHub-1e2122?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qurriahSam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e2122?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sam-kuria-0904b01a1)
@@ -55,8 +57,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=qurriahSam&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-
-<p align="center">
-  <img width="700em" src="https://activity-graph.herokuapp.com/graph?username=qurriahSam&theme=gruvbox" />
-</p>
-<hr/>
