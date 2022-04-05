@@ -15,7 +15,7 @@
 &nbsp;
 
 - 👩‍💻 Studying Software Engineering at: [Moringa School](https://moringaschool.com/)
-- 🌱 Currently learning: [Angular](https://angular.io/)
+- 🌱 Currently learning: [React](https://reactjs.org/)
 
 ## 💻 Technologies I Work With
 
