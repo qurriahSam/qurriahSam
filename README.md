@@ -1,4 +1,4 @@
-![banner](./assets/myBanner.png)
+![banner](./assets/meRGLossy.gif)
 
 # Hi there, I am Sam Kuria <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
 
