@@ -1,6 +1,6 @@
 ![banner](./assets/meRGLossy.gif)
 
-# Hi there, I am Sam Kuria <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
+# Hi there, I am Sam Kuria <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px" height="30px" />
 
 <img align="right" alt="GIF" src="./assets/eCoder.gif" width="350em"/>
 
