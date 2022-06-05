@@ -15,7 +15,7 @@
 &nbsp;
 
 - 👩‍💻 Studying Software Engineering at: [Moringa School](https://moringaschool.com/)
-- 🌱 Currently learning: [React](https://reactjs.org/)
+- 🌱 Currently learning: [Ruby](https://www.ruby-lang.org/en/)
 
 ## 💻 Technologies I Work With
 
@@ -24,7 +24,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-161A3B?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 ## 📱 Dev & Design Tools
 
