@@ -44,6 +44,7 @@
 ## Alogrithims practice
 
 [![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/90150N)
+<img align ="right" alt="GIF" height="70px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ## ⌨️ My Setup
 
@@ -63,7 +64,6 @@
 </p>
 
 <p align="center">
-  <img align ="left" alt="GIF" height="70px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=qurriahSam&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
