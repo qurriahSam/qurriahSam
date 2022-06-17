@@ -63,6 +63,7 @@
 </p>
 
 <p align="center">
+  <img align ="left" alt="GIF" height="70px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=qurriahSam&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
