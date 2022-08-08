@@ -15,7 +15,7 @@
 &nbsp;
 
 - 👩‍💻 Studying Software Engineering at: [Moringa School](https://moringaschool.com/)
-- 🌱 Currently learning: [Ruby](https://www.ruby-lang.org/en/)
+- 🌱 Currently learning: [Ruby on Rails](https://rubyonrails.org/)
 
 ## 💻 Technologies I Work With
 
@@ -28,12 +28,15 @@
 ![React](https://img.shields.io/badge/React-161A3B?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-6B1915?style=for-the-badge&logo=ruby&logoColor=red)
+![Ruby_on_rails](https://img.shields.io/badge/Ruby_on_rails-CC0000?style=for-the-badge&logo=ruby+on+rails&logoColor=white)
 
 
 ## 📱 Dev & Design Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![Rubocop](https://img.shields.io/badge/Rubocop-000000?style=for-the-badge&logo=rubocop&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
