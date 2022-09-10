@@ -15,7 +15,7 @@
 &nbsp;
 
 - 👩‍💻 Studying Software Engineering at: [Moringa School](https://moringaschool.com/)
-- 🌱 Currently learning: [Ruby on Rails](https://rubyonrails.org/)
+- 🌱 Currently learning: [angular](https://angular.io/)
 
 ## 💻 Technologies I Work With
 
