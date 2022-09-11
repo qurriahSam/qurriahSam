@@ -31,7 +31,7 @@
 ![Ruby_on_rails](https://img.shields.io/badge/Ruby_on_rails-CC0000?style=for-the-badge&logo=ruby+on+rails&logoColor=white)
 
 
-## 📱 Dev & Design Tools
+## 🎨 Dev & Design Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
@@ -43,10 +43,12 @@
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-## Alogrithims practice
+## 📱 Alogrithims practice
+<img align ="right" alt="GIF" height="68px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<a href="https://www.codewars.com/users/90150N">
+  <img alt="codewars" src="https://www.codewars.com/users/90150N/badges/small"/>
+</a>
 
-[![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/90150N)
-<img align ="right" alt="GIF" height="70px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ## ⌨️ My Setup
 
