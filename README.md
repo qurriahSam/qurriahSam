@@ -2,7 +2,7 @@
 
 # Hi there, I am Sam Kuria <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px" height="30px" />
 
-<img align="right" alt="GIF" src="./assets/eCoder.gif" width="350em"/>
+<img align="right" alt="GIF" src="./assets/eCoder.gif" width="340em"/>
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1e2122?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/kuriah_sam)
@@ -15,6 +15,7 @@
 &nbsp;
 
 - 🌱 Currently learning: [angular](https://angular.io/)
+- ⛏ Contributing to: [elewa](https://github.com/italanta/elewa)
 
 ## 💻 Technologies I Work With
 
