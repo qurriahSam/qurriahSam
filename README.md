@@ -14,7 +14,7 @@
 
 &nbsp;
 
-- 🌱 Currently learning: [angular](https://angular.io/)
+- 🌱 Currently learning: [Jest](https://jestjs.io/)
 - ⛏ Contributing to: [elewa](https://github.com/italanta/elewa)
 
 ## 💻 Technologies I Work With
@@ -26,6 +26,7 @@
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-161A3B?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-6B1915?style=for-the-badge&logo=ruby&logoColor=red)
