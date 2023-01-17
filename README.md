@@ -71,7 +71,7 @@
   </p>
 -->
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=qurriahSam&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
