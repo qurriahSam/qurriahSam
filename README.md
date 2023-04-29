@@ -2,7 +2,7 @@
 
 # Hi there, I am Sam Kuria <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px" height="30px" />
 
-<img align="right" alt="GIF" src="./assets/eCoder.gif" width="340em"/>
+<!-- <img align="right" alt="GIF" src="./assets/eCoder.gif" width="140em"/> -->
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1e2122?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/kuriah_sam)
@@ -22,7 +22,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-161A3B?style=for-the-badge&logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node-E23237?style=for-the-badge&logo=node&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-E23237?style=for-the-badge&logo=nodeJS&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-6B1915?style=for-the-badge&logo=ruby&logoColor=red)
 ![Ruby_on_rails](https://img.shields.io/badge/Ruby_on_rails-CC0000?style=for-the-badge&logo=ruby+on+rails&logoColor=white)
 
