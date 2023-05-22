@@ -10,10 +10,11 @@
 <br />
 ![](https://api.visitorbadge.io/api/VisitorHit?user=qurriahSam&repo=qurriahSam&labelColor=%231f2223&countColor=%23e0a92a&style=flat)
 
-&nbsp;
+<!-- &nbsp; -->
 
-- 🌱 Currently learning: [Jest](https://jestjs.io/)
-- ⛏ Contributing to: [elewa](https://github.com/italanta/elewa)
+🌱 Currently learning: [Jest](https://jestjs.io/)
+<br>
+⛏ Contributing to: [elewa](https://github.com/italanta/elewa)
 
 ## 💻 Technologies I Work With
 
