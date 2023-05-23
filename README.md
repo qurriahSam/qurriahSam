@@ -49,6 +49,9 @@
 
 <p>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=qurriahSam&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&background=03010100" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurriahSam&count_private=true&theme=gruvbox&hide=html,css&bg_color=03010100&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-qurriahsam.vercel.app/api/top-langs/?username=qurriahSam&count_private=true&theme=gruvbox&hide=html,css,scss&bg_color=03010100&layout=compact"/>
   <!-- &layout=donut -->
 </p>
+
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurriahSam&count_private=true&theme=gruvbox&hide=html,css&bg_color=03010100&layout=compact"/> -->
+
