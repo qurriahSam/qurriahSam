@@ -1,4 +1,4 @@
-![banner](./assets/meRGLossy.gif)
+![banner](./assets/gruvQurriah.gif)
 
 # Hi there, I am Sam Kuria <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px" height="30px" />
 
@@ -54,4 +54,3 @@
 </p>
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurriahSam&count_private=true&theme=gruvbox&hide=html,css&bg_color=03010100&layout=compact"/> -->
-
