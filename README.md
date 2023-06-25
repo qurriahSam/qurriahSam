@@ -1,8 +1,6 @@
 ![banner](./assets/gruvQurriah.gif)
 
-# Hi there, I am Sam Kuria <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px" height="30px" />
-
-<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="Wave Animated" width="30px" height="30px" />
+# Hi there, I am Sam Kuria <img src="./assets/wave.gif" alt="Wave Animated" width="45px" height="45px" />
 
 <!-- <img align="right" alt="GIF" src="./assets/eCoder.gif" width="140em"/> -->
 
