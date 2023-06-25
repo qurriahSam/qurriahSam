@@ -2,6 +2,8 @@
 
 # Hi there, I am Sam Kuria <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px" height="30px" />
 
+<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="Wave Animated" width="30px" height="30px" />
+
 <!-- <img align="right" alt="GIF" src="./assets/eCoder.gif" width="140em"/> -->
 
 [![Twitter](https://img.shields.io/badge/Twitter-1e2122?style=flat&logo=twitter&logoColor=1DA1F2)](https://twitter.com/kuriah_sam)
