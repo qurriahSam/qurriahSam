@@ -50,7 +50,6 @@
 <p>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=qurriahSam&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&background=03010100" />
   <img height="180em" src="https://github-readme-stats-qurriahsam.vercel.app/api/top-langs/?layout=compact&hide=html%2Ccss%2Cscss&bg_color=03010100&count_private=true&username=qurriahSam&theme=gruvbox"/>
-    <img height="180em" src="https://camo.githubusercontent.com/e4fa1fc923c415048a417aa150da1b138adac5a8091fd4451c3c83919cc4a83a/68747470733a2f2f6769746875622d726561646d652d73746174732d7175727269616873616d2e76657263656c2e6170702f6170692f746f702d6c616e67732f3f6c61796f75743d636f6d7061637426686964653d68746d6c253243637373253243736373732662675f636f6c6f723d303330313031303026636f756e745f707269766174653d7472756526757365726e616d653d7175727269616853616d267468656d653d67727576626f78"/>
   <!-- &layout=donut -->
 </p>
 
