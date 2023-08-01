@@ -49,7 +49,8 @@
 
 <p>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=qurriahSam&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&background=03010100" />
-   <img height="180em" src="https://git-stats-il6osaqd6-qurriahsam.vercel.app/api/top-langs/?layout=compact&hide=html%2Ccss%2Cscss&bg_color=03010100&count_private=false&username=qurriahSam&theme=gruvbox"/>
+  <!-- <img height="180em" src="https://git-stats-il6osaqd6-qurriahsam.vercel.app/api/top-langs/?layout=compact&hide=html%2Ccss%2Cscss&bg_color=03010100&count_private=false&username=qurriahSam&theme=gruvbox"/> -->
+     <img height="180em" src="https://camo.githubusercontent.com/02d3d62d6375d4f370df2d851d5e3859fc1e1f537e7b82e20eb8bb9bc423d256/68747470733a2f2f6769742d73746174732d696c366f73617164362d7175727269616873616d2e76657263656c2e6170702f6170692f746f702d6c616e67732f3f6c61796f75743d636f6d7061637426686964653d68746d6c253243637373253243736373732662675f636f6c6f723d303330313031303026636f756e745f707269766174653d66616c736526757365726e616d653d7175727269616853616d267468656d653d67727576626f78"/>
   <!-- &layout=donut -->
 </p>
 
