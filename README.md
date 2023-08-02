@@ -32,7 +32,7 @@
 ## 📱 Alogrithims practice
 
 <img align ="right" alt="GIF" height="68px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
-<a href="https://www.codewars.com/users/90150N">
+<a href="https://www.codewars.com/users/qurriah">
   <img alt="codewars" src="https://www.codewars.com/users/90150N/badges/small"/>
 </a>
 
