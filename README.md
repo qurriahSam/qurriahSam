@@ -32,8 +32,8 @@
 ## 📱 Alogrithims practice
 
 <img align ="right" alt="GIF" height="68px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
-<a href="https://www.codewars.com/users/qurriah">
-  <img alt="codewars" src="https://www.codewars.com/users/90150N/badges/small"/>
+<a href="https://www.codewars.com/users/Qurriah">
+  <img alt="codewars" src="https://www.codewars.com/users/Qurriah/badges/micro"/>
 </a>
 
 &nbsp;
