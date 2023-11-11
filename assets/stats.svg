@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sam Kuria's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits in 2023 : 3, Total PRs: 37, Total Issues: 1, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits in 2023 : 4, Total PRs: 37, Total Issues: 1, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 153.00539986802693;
+        stroke-dashoffset: 151.39209458131893;
       }
     }
   
@@ -158,7 +158,7 @@
         x="199.01"
         y="12.5"
         data-testid="stars"
-      >3</text>
+      >4</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
