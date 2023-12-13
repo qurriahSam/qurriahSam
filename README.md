@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 
-<!--   <p align="center">
+<!-- <p align="center">
     <a href="https://github.com/qurriahSam">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qurriahSam&count_private=true&show_icons=true&theme=gruvbox"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurriahSam&theme=gruvbox"/>
