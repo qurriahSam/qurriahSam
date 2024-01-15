@@ -15,6 +15,8 @@
 🌱 Currently learning: [Jest](https://jestjs.io/)
 <br>
 ⛏ Contributing to: [elewa](https://github.com/italanta/elewa)
+<br>
+⛏ Building: [shoppingify](https://github.com/qurriahSam/shoppingify)
 
 ## 💻 Technologies I Work With
 
