@@ -40,11 +40,8 @@
 
 &nbsp;
 
-[![An image of @qurriahsam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/qurriahsam)](https://holopin.io/@qurriahsam)
-
-<!-- 
 ## 📊 GitHub Stats
-
+<!-- 
 <p align="center">
     <a href="https://github.com/qurriahSam">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qurriahSam&count_private=true&show_icons=true&theme=gruvbox"/>
@@ -60,3 +57,6 @@
 </p>
 
 <!-- <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurriahSam&count_private=true&theme=gruvbox&hide=html,css&bg_color=03010100&layout=compact"/> -->
+
+
+[![An image of @qurriahsam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/qurriahsam)](https://holopin.io/@qurriahsam)
